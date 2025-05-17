@@ -1,12 +1,8 @@
 [
   {
-    "nama": "Septian",
-    "nomor": "6281234567890",
-    "status": "active"
-  },
-  {
-    "nama": "Eko",
-    "nomor": "6289876543210",
-    "status": "blacklist"
-  }
+  "nama": "Karla",
+  "password": "karla",
+  "nomor": ["628123456789"],
+  "status": "active"
+}
 ]
