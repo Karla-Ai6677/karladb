@@ -13,5 +13,11 @@
     "password": "Dinata",
     "nomor": [],
     "status": "blacklist"
+  },
+  {
+    "nama": "asep",
+    "password": "asep",
+    "nomor": [],
+    "status": "active"
   }
 ]
